@@ -24,9 +24,7 @@ You can also just clone this repository directly if you do not want to track you
 #### Clone the repository
 
 ```shell
-git clone --depth 1 https://github.com/AstroNvim/template $env:LOCALAPPDATA\nvim
-# remove template's git connection to set up your own later
-Remove-Item $env:LOCALAPPDATA\nvim\.git -Recurse -Force
+git clone https://github.com/NikosZoros3533/myAstrovim.git $env:LOCALAPPDATA\nvim
 nvim
 ```
 
