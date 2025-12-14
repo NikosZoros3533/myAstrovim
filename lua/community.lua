@@ -6,7 +6,7 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.scrolling.mini-animate" },
+  --  { import = "astrocommunity.scrolling.mini-animate" },
   -- { import = "astrocommunity.recipes.ai" },
   -- import/override with your plugins folder
 }
